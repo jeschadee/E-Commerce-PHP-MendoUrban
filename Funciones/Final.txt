@@ -1,0 +1,3 @@
+Seleccionar un cliente y filtrar por fecha historial de compra
+
+Ranking de productos más vendidos top 10 entre dos fechas
